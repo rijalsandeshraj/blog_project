@@ -1,0 +1,1 @@
+Hello World! This is a blog app with common features. More changes will be made to make the application more refined.
